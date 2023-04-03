@@ -1,4 +1,4 @@
-int senser = 14 ;
+int senser = 13 ;
 void setup() {
   // put your setup code here, to run once:
 	pinMode(senser, INPUT);  
