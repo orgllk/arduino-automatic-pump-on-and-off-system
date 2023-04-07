@@ -10,6 +10,8 @@ void loop() {
   // put your main code here, to run repeatedly:
 int s = digitalRead(senser);
 if (s == HIGH){
+  digitalWrite(4,LOW);
+}else{
   digitalWrite(4,HIGH);
 }
 }
