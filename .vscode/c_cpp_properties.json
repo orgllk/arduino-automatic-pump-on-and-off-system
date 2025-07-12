@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/include",
-                "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/src",
+                "C:/Users/jagat/Documents/arduino-automatic-pump-on-and-off-system/include",
+                "C:/Users/jagat/Documents/arduino-automatic-pump-on-and-off-system/src",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/standard",
                 "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/include",
-                    "C:/Users/jagat/Documents/GitHub/arduino-automatic-pump-on-and-off-system/src",
+                    "C:/Users/jagat/Documents/arduino-automatic-pump-on-and-off-system/include",
+                    "C:/Users/jagat/Documents/arduino-automatic-pump-on-and-off-system/src",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/variants/standard",
                     "C:/Users/jagat/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -35,7 +35,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60116",
+                "PLATFORMIO=60118",
                 "ARDUINO_AVR_UNO",
                 "F_CPU=16000000L",
                 "ARDUINO_ARCH_AVR",
