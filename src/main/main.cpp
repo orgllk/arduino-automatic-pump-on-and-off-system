@@ -48,6 +48,7 @@ int readDistance(int trigPin, int echoPin) {
 
   long duration = pulseIn(echoPin, HIGH, 30000); // 30ms timeout
   return (duration * 0.034 / 2);
+  a
 }
 
 void loop() {
